@@ -28,12 +28,12 @@ You can choose to:
 
 2️⃣ Make the script executable:  
 ```bash
-chmod +x install.sh
+chmod +x download_tools.sh
 ```
 
 3️⃣ Run the script:  
 ```bash
-./install.sh
+./download_tools.sh
 ```
 
 4️⃣ Follow the prompts to select your tools!  
@@ -82,12 +82,12 @@ cd CTF-Tools
 
 2️⃣ Make the script executable  
 ```bash
-chmod +x customize-terminal.sh
+chmod +x config_terminal.sh
 ```
 
 3️⃣ Run the script  
 ```bash
-./customize-terminal.sh
+./config_terminal.sh
 ```
 
 4️⃣ Restart your terminal or run zsh  
